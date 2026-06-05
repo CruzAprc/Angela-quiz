@@ -34,7 +34,9 @@ export default function CarouselRenderer({ layer, rounded }) {
                 <img
                   src={item.image.src}
                   alt=""
-                  loading="lazy"
+                  loading="eager"
+                  decoding="async"
+                  fetchPriority={i === 0 ? 'high' : 'auto'}
                   className="mx-auto block max-h-[60vh] w-full object-contain"
                 />
               )}

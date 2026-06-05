@@ -2,6 +2,7 @@ import { useEffect } from 'react'
 import funnel from './data/funnel.json'
 import { useQuiz } from './engine/useQuiz.js'
 import { applyTheme, roundedClass } from './theme/applyTheme.js'
+import { preloadFunnelImages } from './utils/preload.js'
 import Step from './components/Step.jsx'
 
 export default function App() {
@@ -11,6 +12,8 @@ export default function App() {
 
   useEffect(() => {
     applyTheme(funnel.design)
+    // pré-carrega os prints de prova social em segundo plano
+    preloadFunnelImages(funnel)
   }, [])
 
   return (
