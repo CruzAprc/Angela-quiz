@@ -1,0 +1,1692 @@
+{
+ "id": 120267,
+ "hash": "hsMEbB",
+ "title": "angela-funil-vslquiz",
+ "slug": "angelacomunidade",
+ "description": "",
+ "domain": null,
+ "origin": "R2",
+ "status": 1,
+ "steps": [
+  {
+   "id": "fjZYm1",
+   "title": "Intro 1",
+   "layers": [
+    {
+     "id": "VUQW4Y",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "100",
+      "horizontalAlign": "mx-auto"
+     },
+     "content": {
+      "id": "T7GOi8",
+      "name": "i0jWCQ",
+      "text": "<h1 class=\"ql-align-center\"><span class=\"ql-size-small\">Eu&nbsp;sei&nbsp;que&nbsp;você&nbsp;já&nbsp;tentou&nbsp;de&nbsp;tudo...</span></h1><p class=\"ql-align-center\"><span class=\"ql-size-small\">Dieta,&nbsp;treino,&nbsp;chá...&nbsp;E&nbsp;nada&nbsp;funcionou&nbsp;de&nbsp;verdade,&nbsp;né?&nbsp;Me&nbsp;responde&nbsp;algumas&nbsp;perguntas&nbsp;que&nbsp;eu&nbsp;vou&nbsp;te&nbsp;mostrar&nbsp;o&nbsp;caminho.&nbsp;👇️</span></p>"
+     },
+     "step": "fjZYm1",
+     "chosen": false,
+     "selected": false
+    },
+    {
+     "id": "rIoImF",
+     "title": "Botão",
+     "icon": "fa-rectangle-wide",
+     "type": "button",
+     "design": {
+      "style": "theme",
+      "basis": 100,
+      "bubble": true,
+      "pulse": true
+     },
+     "content": {
+      "id": "4mNnKZ",
+      "name": "giAqr7",
+      "type": "next",
+      "label": "Continuar",
+      "destination": "PXPkHY",
+      "pulse": false,
+      "target": false
+     },
+     "step": "fjZYm1",
+     "effects": {
+      "starts": 0
+     },
+     "chosen": false,
+     "selected": false
+    },
+    {
+     "id": "G3VfOO",
+     "title": "Espaço",
+     "icon": "arrowsV",
+     "type": "clear",
+     "design": [],
+     "content": {
+      "id": "nWNXj5",
+      "clear": "h-[1rem]",
+      "name": "QDr5PM"
+     },
+     "data-type": "clear",
+     "step": "fjZYm1",
+     "chosen": false,
+     "selected": false
+    },
+    {
+     "id": "KXlidR",
+     "title": "Imagem",
+     "icon": "image",
+     "type": "image",
+     "design": {
+      "basis": "49",
+      "horizontalAlign": "mr-auto"
+     },
+     "content": {
+      "id": "yEldQa",
+      "image": {
+       "src": "/assets/lORZv-1.png",
+       "type": "image",
+       "width": 1080,
+       "height": 1080
+      },
+      "name": "GXLYrf"
+     },
+     "data-type": "image",
+     "step": "fjZYm1",
+     "chosen": false,
+     "selected": false
+    },
+    {
+     "id": "UcMCmV",
+     "title": "Imagem",
+     "icon": "image",
+     "type": "image",
+     "design": {
+      "basis": "49",
+      "horizontalAlign": "mr-auto"
+     },
+     "content": {
+      "id": "ChxCP9",
+      "image": {
+       "src": "/assets/xZDfA-jessica-siqueira.jpg",
+       "type": "image",
+       "width": 1280,
+       "height": 1280
+      },
+      "name": "LKLeql"
+     },
+     "data-type": "image",
+     "step": "fjZYm1",
+     "chosen": false,
+     "selected": false
+    },
+    {
+     "id": "grNOho",
+     "title": "Imagem",
+     "icon": "image",
+     "type": "image",
+     "design": {
+      "basis": "49",
+      "horizontalAlign": "mr-auto"
+     },
+     "content": {
+      "id": "VpdXc1",
+      "image": {
+       "src": "/assets/F5JTZ-3.png",
+       "type": "image",
+       "width": 1080,
+       "height": 1080
+      },
+      "name": "q0sDqs"
+     },
+     "data-type": "image",
+     "step": "fjZYm1",
+     "chosen": false,
+     "selected": false
+    },
+    {
+     "id": "jKPUGf",
+     "title": "Imagem",
+     "icon": "image",
+     "type": "image",
+     "design": {
+      "basis": "49",
+      "horizontalAlign": "mr-auto"
+     },
+     "content": {
+      "id": "rNK5Lc",
+      "image": {
+       "src": "/assets/WIpRe-nathalia.jpg",
+       "type": "image",
+       "width": 1280,
+       "height": 1280
+      },
+      "name": "vCpzzl"
+     },
+     "data-type": "image",
+     "step": "fjZYm1",
+     "chosen": false,
+     "selected": false
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": -239.33341603900146,
+    "y": 7.902943937097703
+   },
+   "design": {
+    "backgroundImage": {
+     "src": "/assets/R9hWF-baixarjpg.jpg",
+     "type": "image",
+     "width": 1080,
+     "height": 1440
+    },
+    "backgroundOpacity": "25",
+    "backgroundPosition": "center",
+    "backgroundSize": "cover"
+   },
+   "options": {
+    "show_logo": true,
+    "show_back": true
+   }
+  },
+  {
+   "id": "PXPkHY",
+   "title": "Idade 2",
+   "layers": [
+    {
+     "id": "tTTMNk",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": [],
+     "content": {
+      "id": "XDK55N",
+      "name": "p3lE0I",
+      "text": "<h2 class=\"ql-align-center\">Qual&nbsp;a&nbsp;sua&nbsp;idade?</h2><p class=\"ql-align-center\"><span class=\"ql-size-small\">Seleciona&nbsp;uma&nbsp;das&nbsp;opções&nbsp;aqui&nbsp;embaixo:</span></p>"
+     },
+     "step": "PXPkHY"
+    },
+    {
+     "id": "VkdMNN",
+     "title": "Opções 1",
+     "icon": "fa-text",
+     "type": "options",
+     "design": {
+      "basis": 100,
+      "grid": "grid-cols-2",
+      "background": "contrast",
+      "aspectImage": "auto",
+      "shadow": "shadow-md hover:shadow-lg",
+      "gap": "gap-2",
+      "border": "border",
+      "icon": "right",
+      "orientation": "horizontal",
+      "iconPosition": "end"
+     },
+     "content": {
+      "id": "TkgQ4r",
+      "name": "opcoes_t02nFb",
+      "cols": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "required": false,
+      "options": [
+       {
+        "id": "NxKQP9",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>25-34&nbsp;anos</p>",
+        "destination": "SQao4h",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "wjMj1s",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>35-44&nbsp;anos</p>",
+        "destination": "SQao4h",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "YSwcN9",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>45-54&nbsp;anos</p>",
+        "destination": "SQao4h",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "EArjdf",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>55&nbsp;anos&nbsp;ou&nbsp;mais</p>",
+        "destination": "SQao4h",
+        "chosen": false,
+        "selected": false
+       }
+      ],
+      "introType": "none",
+      "introduction": null
+     },
+     "step": "PXPkHY"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "design": {
+    "backgroundSize": "cover"
+   },
+   "position": {
+    "x": 147.07056848824874,
+    "y": 60.65377548168061
+   }
+  },
+  {
+   "id": "SQao4h",
+   "title": "É mãe?",
+   "layers": [
+    {
+     "id": "PAzACn",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "100",
+      "horizontalAlign": "mx-auto",
+      "verticalAlign": "self-start"
+     },
+     "content": {
+      "id": "JC24p4",
+      "name": "x670YN",
+      "text": "<h1 class=\"ql-align-center\">Você&nbsp;é&nbsp;mãe?</h1><p class=\"ql-align-center\">Isso&nbsp;vai&nbsp;ajudar&nbsp;a&nbsp;entender&nbsp;melhor&nbsp;sua&nbsp;situação.</p>"
+     },
+     "step": "SQao4h"
+    },
+    {
+     "id": "vImuxG",
+     "title": "Opções 1",
+     "icon": "fa-text",
+     "type": "options",
+     "design": {
+      "basis": 100,
+      "background": "contrast",
+      "icon": "right"
+     },
+     "content": {
+      "id": "1au2Dr",
+      "name": "opcoes_d7b1Xk",
+      "cols": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "required": true,
+      "options": [
+       {
+        "id": "syRz15",
+        "image": {
+         "type": "emoji",
+         "src": "👶"
+        },
+        "label": "<p>Sim,&nbsp;sou&nbsp;mãe.</p>",
+        "destination": "PmN6Cy",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "yGi4As",
+        "image": {
+         "type": "emoji",
+         "src": "🙅‍♀️"
+        },
+        "label": "<p>Não,&nbsp;não&nbsp;sou&nbsp;mãe.</p>",
+        "destination": "od75Qs",
+        "chosen": false,
+        "selected": false
+       }
+      ]
+     },
+     "step": "SQao4h"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 475.4111719646661,
+    "y": 137.14126847703855
+   }
+  },
+  {
+   "id": "PmN6Cy",
+   "title": "Fluxo mãe 4",
+   "layers": [
+    {
+     "id": "VA8li5",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": [],
+     "content": {
+      "id": "eBjT8X",
+      "name": "IMEVZr",
+      "text": "<h3 class=\"ql-align-center\">O&nbsp;que&nbsp;mais&nbsp;pesa&nbsp;na&nbsp;sua&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">rotina</span>&nbsp;de&nbsp;mãe&nbsp;hoje?&nbsp;</h3>"
+     },
+     "step": "PmN6Cy"
+    },
+    {
+     "id": "C1Bywn",
+     "title": "Opções 1",
+     "icon": "fa-text",
+     "type": "options",
+     "design": {
+      "basis": 100,
+      "background": "contrast",
+      "icon": "right"
+     },
+     "content": {
+      "id": "CFEGGK",
+      "name": "opcoes_wVec2o",
+      "cols": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "required": true,
+      "options": [
+       {
+        "id": "Wnfj0R",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>A&nbsp;culpa&nbsp;de&nbsp;não&nbsp;conseguir&nbsp;cuidar&nbsp;de&nbsp;mim&nbsp;</p>",
+        "destination": "g35mIO",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "A7Kq03",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>Estou&nbsp;sempre&nbsp;cansada.</p>",
+        "destination": "g35mIO",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "3llXqa",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>Não&nbsp;me&nbsp;reconhecer&nbsp;mais&nbsp;no&nbsp;espelho&nbsp;</p>",
+        "destination": "g35mIO",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "QjbWTW",
+        "image": {
+         "type": "image",
+         "src": null
+        },
+        "label": "<p>Eu&nbsp;sei&nbsp;o&nbsp;que&nbsp;quero,&nbsp;mas&nbsp;não&nbsp;consigo&nbsp;sozinha&nbsp;&nbsp;&nbsp;</p>",
+        "destination": "g35mIO",
+        "chosen": false,
+        "selected": false
+       }
+      ]
+     },
+     "step": "PmN6Cy"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 836.5436628224559,
+    "y": -140.3139552030201
+   }
+  },
+  {
+   "id": "nr408P",
+   "title": "Mãe - 5",
+   "layers": [
+    {
+     "id": "1ZRnFb",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": 100,
+      "horizontalAlign": "mx-auto"
+     },
+     "content": {
+      "id": "ZSOHZ7",
+      "name": "pHaWuL",
+      "text": "<h2 class=\"ql-align-center\">Agora&nbsp;me&nbsp;conta,&nbsp;o&nbsp;que&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">FALTOU</span>&nbsp;nas&nbsp;outras&nbsp;vezes?&nbsp;</h2><p class=\"ql-align-center\"></p>"
+     }
+    },
+    {
+     "id": "Bh0ogP",
+     "title": "Opções 1",
+     "icon": "fa-text",
+     "type": "options",
+     "design": {
+      "basis": 100,
+      "background": "contrast",
+      "icon": "right"
+     },
+     "content": {
+      "id": "QLxBF1",
+      "name": "opcoes_vZi1Va",
+      "cols": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "required": true,
+      "options": [
+       {
+        "id": "QyDzhR",
+        "image": {
+         "type": "emoji",
+         "src": "😥"
+        },
+        "label": "<p>Tempo,&nbsp;porque&nbsp;rotina&nbsp;de&nbsp;mãe&nbsp;é&nbsp;pesada&nbsp;demais</p>",
+        "destination": "6penCf",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "qZRpP1",
+        "image": {
+         "type": "emoji",
+         "src": "🚶‍♀️"
+        },
+        "label": "<p>Fiz&nbsp;sozinha&nbsp;e&nbsp;desisti&nbsp;no&nbsp;meio</p>",
+        "destination": "6penCf",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "sEB09q",
+        "image": {
+         "type": "emoji",
+         "src": "🎯"
+        },
+        "label": "<p>Era&nbsp;genérico,&nbsp;não&nbsp;era&nbsp;feito&nbsp;pra&nbsp;MIM</p>",
+        "destination": "6penCf",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "1yPTE5",
+        "image": {
+         "type": "emoji",
+         "src": "🔥"
+        },
+        "label": "<p>Comecei&nbsp;empolgada&nbsp;e&nbsp;fui&nbsp;apagando</p>",
+        "destination": "6penCf",
+        "chosen": false,
+        "selected": false
+       }
+      ]
+     }
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 1415.6245842277085,
+    "y": -135.80588787419532
+   }
+  },
+  {
+   "id": "6penCf",
+   "title": "Mãe - 6",
+   "layers": [
+    {
+     "id": "lYJRPJ",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": [],
+     "content": {
+      "id": "gWwpoO",
+      "name": "BoGMYc",
+      "text": "<h2 class=\"ql-align-center\">E&nbsp;me&nbsp;diz&nbsp;uma&nbsp;coisa,&nbsp;você&nbsp;se&nbsp;sente&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">SOZINHA</span>&nbsp;nessa&nbsp;jornada?</h2><p class=\"ql-align-center\"></p>"
+     },
+     "step": "6penCf"
+    },
+    {
+     "id": "bWpQk3",
+     "title": "Opções 1",
+     "icon": "fa-text",
+     "type": "options",
+     "design": {
+      "basis": 100,
+      "background": "contrast",
+      "icon": "right"
+     },
+     "content": {
+      "id": "pEq2rs",
+      "name": "opcoes_65LmBH",
+      "cols": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "required": true,
+      "options": [
+       {
+        "id": "iut0Gx",
+        "image": {
+         "type": "emoji",
+         "src": "💔"
+        },
+        "label": "<p>Sim,&nbsp;ninguém&nbsp;entende</p>",
+        "destination": "AlXDC6",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "HHJO0v",
+        "image": {
+         "type": "emoji",
+         "src": "🤲"
+        },
+        "label": "<p>Falta&nbsp;apoio&nbsp;de&nbsp;verdade</p>",
+        "destination": "AlXDC6",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "QaNCie",
+        "image": {
+         "type": "emoji",
+         "src": "😞"
+        },
+        "label": "<p>Tenho&nbsp;gente&nbsp;por&nbsp;perto,&nbsp;mas&nbsp;não&nbsp;é&nbsp;suficiente</p>",
+        "destination": "AlXDC6",
+        "chosen": false,
+        "selected": false
+       }
+      ]
+     },
+     "step": "6penCf"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 1740.7766966202232,
+    "y": -141.28809012737983
+   }
+  },
+  {
+   "id": "AlXDC6",
+   "title": "Mãe - 7 - Loading + Prova social",
+   "layers": [
+    {
+     "id": "mWMKn1",
+     "title": "Loading",
+     "icon": "circleNotch",
+     "type": "loading",
+     "design": {
+      "style": "default",
+      "basis": 100,
+      "horizontalAlign": "mr-auto",
+      "strokeSize": "16",
+      "layout": "default"
+     },
+     "content": {
+      "id": "x2YTin",
+      "title": "Montando seu plano personalizado, amiga...",
+      "name": "faAQDb",
+      "description": "<p class=\"ql-align-center\"></p>",
+      "seconds": 8,
+      "starts": 0,
+      "destination": "next",
+      "show_title": true,
+      "show_percent": true,
+      "show_progress": true,
+      "type": "next"
+     },
+     "data-type": "loading",
+     "step": "AlXDC6"
+    },
+    {
+     "id": "FcZIAk",
+     "title": "Texto",
+     "icon": "text",
+     "type": "text",
+     "design": {
+      "basis": "100",
+      "horizontalAlign": "mx-auto",
+      "verticalAlign": "self-start"
+     },
+     "content": {
+      "id": "VGs4EU",
+      "text": "<p class=\"ql-align-center\">Analisando&nbsp;suas&nbsp;respostas...&nbsp;&nbsp;&nbsp;</p><p class=\"ql-align-center\">Identificando&nbsp;seu&nbsp;perfil...</p><p class=\"ql-align-center\">Buscando&nbsp;o&nbsp;melhor&nbsp;caminho&nbsp;pra&nbsp;você...&nbsp;&nbsp;</p>",
+      "name": "s4jcD1"
+     },
+     "data-type": "text",
+     "step": "AlXDC6",
+     "effects": {
+      "starts": 5
+     }
+    },
+    {
+     "id": "HNcpTf",
+     "title": "Carrossel",
+     "icon": "tvAlt",
+     "type": "carousel",
+     "design": {
+      "style": null
+     },
+     "content": {
+      "id": "bXIGXn",
+      "centered": true,
+      "spoiler": true,
+      "pagination": true,
+      "layout": "image_text",
+      "items": [
+       {
+        "id": "hcFBpP",
+        "image": {
+         "src": "/assets/vaUOq-photo-4-2025-02-13-08-34-21.jpg",
+         "type": "image",
+         "width": 676,
+         "height": 1280
+        },
+        "text": "<p class=\"ql-align-center\"></p>",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "bb8LVy",
+        "image": {
+         "src": "/assets/65YqF-aluna-treinando-ao-lado-do-bebe.jpg",
+         "type": "image",
+         "width": 801,
+         "height": 1280
+        },
+        "text": "<p class=\"ql-align-center\"></p>",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "pU9o1P",
+        "text": null,
+        "image": {
+         "src": "/assets/s1ytt-bia.jpg",
+         "type": "image",
+         "width": 697,
+         "height": 1280
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "NVznfC",
+        "text": null,
+        "image": {
+         "src": "/assets/MQqVJ-photo-2025-07-02-09-13-47.jpg",
+         "type": "image",
+         "width": 824,
+         "height": 1280
+        },
+        "chosen": false,
+        "selected": false
+       }
+      ],
+      "name": "oDZ2uY"
+     },
+     "data-type": "carousel",
+     "step": "AlXDC6"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 2073.0355954936313,
+    "y": -138.5825844944186
+   }
+  },
+  {
+   "id": "A9Pl85",
+   "title": "Mãe - 8 - COMMITMENT",
+   "layers": [
+    {
+     "id": "vYJ2Zn",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "98"
+     },
+     "content": {
+      "id": "SBHTDN",
+      "name": "ANjWyE",
+      "text": "<h2 class=\"ql-align-center\">Você&nbsp;tá&nbsp;pronta&nbsp;pra&nbsp;começar&nbsp;a&nbsp;se&nbsp;colocar&nbsp;em&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">primeiro&nbsp;lugar</span>?</h2><p class=\"ql-align-center\"></p>"
+     },
+     "step": "A9Pl85"
+    },
+    {
+     "id": "8mxZXQ",
+     "title": "Espaço",
+     "icon": "arrowsV",
+     "type": "clear",
+     "design": [],
+     "content": {
+      "id": "kUJ3se",
+      "clear": "h-[1rem]",
+      "name": "Oi9Lue"
+     },
+     "data-type": "clear",
+     "step": "A9Pl85"
+    },
+    {
+     "id": "Lme4rs",
+     "title": "Múltipla Escolha",
+     "icon": "listCheck",
+     "type": "options",
+     "design": {
+      "icon": "right",
+      "iconPosition": "end",
+      "grid": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "transparentImage": true,
+      "aspectImage": "aspect-[1/1]",
+      "basis": 100,
+      "background": "contrast"
+     },
+     "content": {
+      "id": "CSQcEt",
+      "name": "opcoes_lo9kQT",
+      "required": true,
+      "multiple": false,
+      "introType": "text",
+      "introduction": null,
+      "options": [
+       {
+        "id": "1E7E6g",
+        "image": {
+         "type": "emoji",
+         "src": "🔥"
+        },
+        "score": 1,
+        "value": "A",
+        "label": "<p>TÔ&nbsp;PRONTA.&nbsp;Chegou&nbsp;minha&nbsp;vez.</p>",
+        "destination": "PWA97Z",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "L8kdOO",
+        "image": {
+         "type": "emoji",
+         "src": "💛"
+        },
+        "score": 2,
+        "value": "B",
+        "label": "<p>Quero&nbsp;muito,&nbsp;mas&nbsp;tenho&nbsp;medo&nbsp;de&nbsp;não&nbsp;conseguir</p>",
+        "destination": "PWA97Z",
+        "chosen": false,
+        "selected": false
+       }
+      ],
+      "type": "multiple"
+     },
+     "data-type": "options",
+     "step": "A9Pl85"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 2357.035595493631,
+    "y": -146.06478674760308
+   }
+  },
+  {
+   "id": "PWA97Z",
+   "title": "Mãe - 9 - VSL",
+   "layers": [
+    {
+     "id": "xmAfub",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "98"
+     },
+     "content": {
+      "id": "qE3ZA0",
+      "name": "gGFi3K",
+      "text": "<h3 class=\"ql-align-center\"><strong>Eu&nbsp;vi&nbsp;cada&nbsp;resposta&nbsp;sua.&nbsp;E&nbsp;eu&nbsp;sei&nbsp;exatamente&nbsp;o&nbsp;que&nbsp;você&nbsp;tá&nbsp;sentindo&nbsp;agora</strong></h3><p class=\"ql-align-center\">Esse&nbsp;vídeo&nbsp;tem&nbsp;alguns&nbsp;minutinhos&nbsp;só,&nbsp;mas&nbsp;vai&nbsp;te&nbsp;mostrar&nbsp;por&nbsp;que&nbsp;nada&nbsp;disso&nbsp;é&nbsp;culpa&nbsp;sua&nbsp;</p>"
+     },
+     "step": "PWA97Z"
+    },
+    {
+     "id": "r7SsAS",
+     "title": "Espaço",
+     "icon": "arrowsV",
+     "type": "clear",
+     "design": [],
+     "content": {
+      "id": "kncPUB",
+      "clear": "h-[1rem]",
+      "name": "TpVL1B"
+     },
+     "data-type": "clear",
+     "step": "PWA97Z"
+    },
+    {
+     "id": "1w5mKt",
+     "title": "Vídeo",
+     "icon": "film",
+     "type": "video",
+     "design": {
+      "basis": 100,
+      "ratio": "mobile"
+     },
+     "content": {
+      "id": "6GAGt6",
+      "title": null,
+      "description": null,
+      "name": "77LW6N",
+      "video": "<vturb-smartplayer id=\"vid-69efcadb6cda6b6e2e61145c\" style=\"display: block; margin: 0 auto; width: 100%; max-width: 400px;\"></vturb-smartplayer> <script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/00d6163e-e250-4c92-8e51-37b324f30ce8/players/69efcadb6cda6b6e2e61145c/v4/player.js\", s.async=!0,document.head.appendChild(s); </script>"
+     },
+     "data-type": "video",
+     "step": "PWA97Z"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 2655.66991013933,
+    "y": -114.39487660827285
+   }
+  },
+  {
+   "id": "od75Qs",
+   "title": "E4",
+   "layers": [
+    {
+     "id": "h0Ek7p",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "98",
+      "horizontalAlign": "mx-auto"
+     },
+     "content": {
+      "id": "zzIWK0",
+      "name": "DkSA3Q",
+      "text": "<h2 class=\"ql-align-center\">Qual&nbsp;dessas&nbsp;frases&nbsp;parece&nbsp;escrita&nbsp;por&nbsp;você?</h2><p class=\"ql-align-center\"></p>"
+     },
+     "step": "od75Qs"
+    },
+    {
+     "id": "M5wIIZ",
+     "title": "Escolha Única",
+     "icon": "listRadio",
+     "type": "options",
+     "design": {
+      "icon": "right",
+      "iconPosition": "end",
+      "grid": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "transparentImage": true,
+      "aspectImage": "aspect-[1/1]",
+      "basis": 100,
+      "shadow": "shadow-none",
+      "background": "contrast"
+     },
+     "content": {
+      "id": "elAv2c",
+      "name": "opcoes_9YDzFo",
+      "required": true,
+      "multiple": false,
+      "introType": "none",
+      "introduction": null,
+      "options": [
+       {
+        "id": "N13xYl",
+        "image": {
+         "type": "emoji",
+         "src": "💼"
+        },
+        "score": 1,
+        "value": "A",
+        "label": "<p>Trabalho,&nbsp;trabalho,&nbsp;trabalho...&nbsp;e&nbsp;me&nbsp;esqueço&nbsp;de&nbsp;mim</p>",
+        "destination": "7UzqBL",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "udO8dE",
+        "image": {
+         "type": "emoji",
+         "src": "💪"
+        },
+        "score": 2,
+        "value": "B",
+        "label": "<p>Já&nbsp;treino,&nbsp;mas&nbsp;quero&nbsp;focar&nbsp;e&nbsp;evoluir&nbsp;de&nbsp;verdade</p>",
+        "destination": "7UzqBL",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "XfYoHO",
+        "image": {
+         "type": "emoji",
+         "src": "📱"
+        },
+        "score": 3,
+        "value": "C",
+        "label": "<p>Vivo&nbsp;me&nbsp;comparando&nbsp;com&nbsp;as&nbsp;outras&nbsp;no&nbsp;Insta</p>",
+        "destination": "7UzqBL",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "2T3Sb4",
+        "label": "<p>Me&nbsp;olho&nbsp;no&nbsp;espelho&nbsp;e&nbsp;não&nbsp;me&nbsp;reconheço&nbsp;mais</p>",
+        "image": {
+         "type": "emoji",
+         "src": "🪞"
+        },
+        "chosen": false,
+        "selected": false,
+        "destination": "next"
+       }
+      ],
+      "type": "single"
+     },
+     "data-type": "options",
+     "step": "od75Qs"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 816.5815920264004,
+    "y": 341.3723377109642
+   }
+  },
+  {
+   "id": "7UzqBL",
+   "title": "E5",
+   "layers": [
+    {
+     "id": "GtOmMK",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "98",
+      "horizontalAlign": "mx-auto"
+     },
+     "content": {
+      "id": "rC5zct",
+      "name": "0joFxu",
+      "text": "<h2 class=\"ql-align-center\">Agora&nbsp;me&nbsp;conta,&nbsp;o&nbsp;que&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">FALTOU</span>&nbsp;nas&nbsp;outras&nbsp;vezes?</h2><p class=\"ql-align-center\"></p>"
+     },
+     "step": "od75Qs"
+    },
+    {
+     "id": "GDqNF6",
+     "title": "Escolha Única",
+     "icon": "listRadio",
+     "type": "options",
+     "design": {
+      "icon": "right",
+      "iconPosition": "end",
+      "grid": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "transparentImage": true,
+      "aspectImage": "aspect-[1/1]",
+      "basis": 100,
+      "shadow": "shadow-none",
+      "background": "contrast"
+     },
+     "content": {
+      "id": "krM5Jl",
+      "name": "opcoes_fLsTvD",
+      "required": true,
+      "multiple": false,
+      "introType": "none",
+      "introduction": null,
+      "options": [
+       {
+        "id": "xZIXOu",
+        "image": {
+         "type": "emoji",
+         "src": "🎯"
+        },
+        "score": 1,
+        "value": "A",
+        "label": "<p>Constância,&nbsp;eu&nbsp;sempre&nbsp;desisto&nbsp;no&nbsp;meio</p>",
+        "destination": "08kcd3",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "AS7L5J",
+        "image": {
+         "type": "emoji",
+         "src": "🚶‍♀️"
+        },
+        "score": 2,
+        "value": "B",
+        "label": "<p>Fiz&nbsp;sozinha&nbsp;e&nbsp;me&nbsp;perdi&nbsp;no&nbsp;caminho</p>",
+        "destination": "08kcd3",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "91Jnnt",
+        "image": {
+         "type": "emoji",
+         "src": "🗺️"
+        },
+        "score": 3,
+        "value": "C",
+        "label": "<p>Era&nbsp;genérico,&nbsp;não&nbsp;era&nbsp;feito&nbsp;pra&nbsp;MIM</p>",
+        "destination": "08kcd3",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "ENGQGk",
+        "label": "<p>Comecei&nbsp;empolgada&nbsp;e&nbsp;fui&nbsp;apagando&nbsp;aos&nbsp;poucos</p>",
+        "image": {
+         "type": "emoji",
+         "src": "📉"
+        },
+        "chosen": false,
+        "selected": false,
+        "destination": "08kcd3"
+       }
+      ],
+      "type": "single"
+     },
+     "data-type": "options",
+     "step": "od75Qs"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 1140.174403172819,
+    "y": 358.0002481170045
+   }
+  },
+  {
+   "id": "08kcd3",
+   "title": "E6",
+   "layers": [
+    {
+     "id": "7tdxdU",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "98"
+     },
+     "content": {
+      "id": "jOVj7c",
+      "name": "98eyTD",
+      "text": "<h3 class=\"ql-align-center\">E&nbsp;me&nbsp;diz&nbsp;uma&nbsp;coisa,&nbsp;você&nbsp;se&nbsp;sente&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">SOZINHA</span>&nbsp;nessa&nbsp;jornada?</h3><p class=\"ql-align-center\"></p>"
+     },
+     "step": "od75Qs"
+    },
+    {
+     "id": "bpMjFL",
+     "title": "Escolha Única",
+     "icon": "listRadio",
+     "type": "options",
+     "design": {
+      "icon": "right",
+      "iconPosition": "end",
+      "grid": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "transparentImage": true,
+      "aspectImage": "aspect-[1/1]",
+      "basis": 100,
+      "shadow": "shadow-none",
+      "background": "contrast"
+     },
+     "content": {
+      "id": "FNNgTf",
+      "name": "opcoes_hLLPzL",
+      "required": true,
+      "multiple": false,
+      "introType": "none",
+      "introduction": null,
+      "options": [
+       {
+        "id": "kMMni0",
+        "image": {
+         "type": "emoji",
+         "src": "💔"
+        },
+        "score": 1,
+        "value": "A",
+        "label": "<p>Sim,&nbsp;ninguém&nbsp;entende</p>",
+        "destination": "rCCdib",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "eBoVFA",
+        "image": {
+         "type": "emoji",
+         "src": "🤲"
+        },
+        "score": 2,
+        "value": "B",
+        "label": "<p>Falta&nbsp;apoio&nbsp;de&nbsp;verdade</p>",
+        "destination": "rCCdib",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "gxh9Z7",
+        "image": {
+         "type": "emoji",
+         "src": "😞"
+        },
+        "score": 3,
+        "value": "C",
+        "label": "<p>Tenho&nbsp;gente&nbsp;por&nbsp;perto,&nbsp;mas&nbsp;não&nbsp;é&nbsp;suficiente</p>",
+        "destination": "rCCdib",
+        "chosen": false,
+        "selected": false
+       }
+      ],
+      "type": "single"
+     },
+     "data-type": "options",
+     "step": "od75Qs"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 1464.3437326549256,
+    "y": 386.80665945680846
+   }
+  },
+  {
+   "id": "rCCdib",
+   "title": "E7",
+   "layers": [
+    {
+     "id": "TH8FPT",
+     "title": "Espaço",
+     "icon": "arrowsV",
+     "type": "clear",
+     "design": [],
+     "content": {
+      "id": "oOg6lq",
+      "clear": "h-[1rem]",
+      "name": "ECbRhh"
+     },
+     "data-type": "clear",
+     "step": "rCCdib"
+    },
+    {
+     "id": "sSHqTk",
+     "title": "Loading",
+     "icon": "circleNotch",
+     "type": "loading",
+     "design": {
+      "style": "default",
+      "basis": 100,
+      "horizontalAlign": "mr-auto",
+      "strokeSize": "13"
+     },
+     "content": {
+      "id": "lZimld",
+      "title": "Montando seu plano personalizado, amiga..",
+      "name": "fHjDXK",
+      "description": "<p class=\"ql-align-center\"></p>",
+      "seconds": 8,
+      "starts": 0,
+      "destination": "next",
+      "show_title": true,
+      "show_percent": true,
+      "show_progress": true,
+      "type": "next"
+     },
+     "data-type": "loading",
+     "step": "rCCdib"
+    },
+    {
+     "id": "wjw4xf",
+     "title": "Espaço",
+     "icon": "arrowsV",
+     "type": "clear",
+     "design": [],
+     "content": {
+      "id": "wFzyJb",
+      "clear": "h-[1rem]",
+      "name": "6NIxFl"
+     },
+     "data-type": "clear",
+     "step": "rCCdib"
+    },
+    {
+     "id": "vllHhF",
+     "title": "Texto",
+     "icon": "text",
+     "type": "text",
+     "design": [],
+     "content": {
+      "id": "j73dCN",
+      "text": "<h1 class=\"ql-align-center\"></h1><p class=\"ql-align-center\">Enquanto&nbsp;isso,&nbsp;olha&nbsp;os&nbsp;resultados&nbsp;de&nbsp;mulheres&nbsp;com&nbsp;perfil&nbsp;parecido&nbsp;com&nbsp;o&nbsp;seu:</p>",
+      "name": "qvWHd7"
+     },
+     "data-type": "text",
+     "step": "rCCdib"
+    },
+    {
+     "id": "Jcnspt",
+     "title": "Carrossel",
+     "icon": "tvAlt",
+     "type": "carousel",
+     "design": {
+      "style": null,
+      "basis": 100
+     },
+     "content": {
+      "id": "OGTRQW",
+      "centered": true,
+      "spoiler": true,
+      "pagination": true,
+      "layout": "image",
+      "items": [
+       {
+        "id": "pU9o1P",
+        "text": null,
+        "image": {
+         "src": "/assets/Q2UvO-antes-e-depois-paula-goulart-team.jpg",
+         "type": "image",
+         "width": 1080,
+         "height": 1350
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "E6BF0Q",
+        "text": null,
+        "image": {
+         "src": "/assets/h3AEG-angela-1.png",
+         "type": "image",
+         "width": 1080,
+         "height": 1080
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "NVznfC",
+        "text": null,
+        "image": {
+         "src": "/assets/T3p7p-antes-e-depois-erica-regina-team-1.jpg",
+         "type": "image",
+         "width": 1080,
+         "height": 1350
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "cGrgnN",
+        "text": null,
+        "image": {
+         "src": "/assets/f0BWh-img-9876.jpg",
+         "type": "image",
+         "width": 482,
+         "height": 521
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "hcFBpP",
+        "image": {
+         "src": "/assets/CFBFS-photo-2023-05-25-09-33-06.jpg",
+         "type": "image",
+         "width": 1280,
+         "height": 1280
+        },
+        "text": "<p class=\"ql-align-center\"></p>",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "bb8LVy",
+        "image": {
+         "src": "/assets/T1klJ-jeovana-braun.jpg",
+         "type": "image",
+         "width": 1080,
+         "height": 1081
+        },
+        "text": "<p class=\"ql-align-center\"></p>",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "0WH05L",
+        "text": null,
+        "image": {
+         "src": "/assets/GRzFB-solange-franca.jpg",
+         "type": "image",
+         "width": 720,
+         "height": 720
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "4rAZVU",
+        "text": null,
+        "image": {
+         "src": "/assets/kzSJU-photo-2023-06-13-09-46-32.jpg",
+         "type": "image",
+         "width": 1280,
+         "height": 1280
+        },
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "gbsiCV",
+        "text": null,
+        "image": {
+         "src": "/assets/Xbg7Y-claudia-lucia-7-meses-de-team.jpg",
+         "type": "image",
+         "width": 1511,
+         "height": 2015
+        },
+        "chosen": false,
+        "selected": false
+       }
+      ],
+      "name": "bxq4lm",
+      "autoplay": true,
+      "delay": "5"
+     },
+     "data-type": "carousel",
+     "step": "rCCdib"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 1770.3978908704871,
+    "y": 378.5975395538645
+   }
+  },
+  {
+   "id": "qjSbjU",
+   "title": "E8",
+   "layers": [
+    {
+     "id": "XTNA6q",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "98",
+      "horizontalAlign": "mx-auto"
+     },
+     "content": {
+      "id": "Y6Q2Cf",
+      "name": "BOwZep",
+      "text": "<h2 class=\"ql-align-center\">Você&nbsp;tá&nbsp;pronta&nbsp;pra&nbsp;começar&nbsp;a&nbsp;se&nbsp;colocar&nbsp;em&nbsp;<span style=\"background-color: rgb(220, 38, 38);\">primeiro&nbsp;lugar</span>?</h2>"
+     },
+     "step": "qjSbjU"
+    },
+    {
+     "id": "5FA741",
+     "title": "Escolha Única",
+     "icon": "listRadio",
+     "type": "options",
+     "design": {
+      "icon": "right",
+      "iconPosition": "end",
+      "grid": "grid-cols-1",
+      "orientation": "horizontal",
+      "order": "default",
+      "transparentImage": true,
+      "aspectImage": "aspect-[1/1]",
+      "basis": 100,
+      "shadow": "shadow-none",
+      "background": "contrast"
+     },
+     "content": {
+      "id": "nUkTOu",
+      "name": "opcoes_XQq1Ny",
+      "required": true,
+      "multiple": false,
+      "introType": "text",
+      "introduction": "<p class=\"ql-align-center\"><strong>O&nbsp;que&nbsp;isso&nbsp;significaria&nbsp;pra&nbsp;você?</strong></p>",
+      "options": [
+       {
+        "id": "tCABS9",
+        "image": {
+         "type": "emoji",
+         "src": "🔥"
+        },
+        "score": 1,
+        "value": "A",
+        "label": "<p>TÔ&nbsp;PRONTA.&nbsp;Chegou&nbsp;minha&nbsp;vez.</p>",
+        "destination": "fVt9Gv",
+        "chosen": false,
+        "selected": false
+       },
+       {
+        "id": "MkKpxA",
+        "image": {
+         "type": "emoji",
+         "src": "💛"
+        },
+        "score": 2,
+        "value": "B",
+        "label": "<p>Me&nbsp;sentiria&nbsp;poderosa</p>",
+        "destination": "fVt9Gv",
+        "chosen": false,
+        "selected": false
+       }
+      ],
+      "type": "single"
+     },
+     "data-type": "options",
+     "step": "qjSbjU"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 2084.9124778889895,
+    "y": 410.51458701850174
+   }
+  },
+  {
+   "id": "fVt9Gv",
+   "title": "E9 VSL",
+   "layers": [
+    {
+     "id": "HWj7OI",
+     "title": "Texto 0",
+     "icon": "fa-text",
+     "type": "text",
+     "design": {
+      "basis": "100",
+      "horizontalAlign": "mx-auto"
+     },
+     "content": {
+      "id": "YaGowO",
+      "name": "DA8WPF",
+      "text": "<h3 class=\"ql-align-center\">Eu&nbsp;vi&nbsp;cada&nbsp;resposta&nbsp;sua.&nbsp;E&nbsp;eu&nbsp;sei&nbsp;exatamente&nbsp;o&nbsp;que&nbsp;você&nbsp;tá&nbsp;sentindo&nbsp;agora</h3>"
+     },
+     "step": "fVt9Gv"
+    },
+    {
+     "id": "4fPE4L",
+     "title": "Texto",
+     "icon": "text",
+     "type": "text",
+     "design": [],
+     "content": {
+      "id": "s0SFqo",
+      "text": "<p class=\"ql-align-center\"><span class=\"ql-size-small\">Esse&nbsp;vídeo&nbsp;tem&nbsp;alguns&nbsp;minutinhos&nbsp;só,&nbsp;mas&nbsp;vai&nbsp;te&nbsp;mostrar&nbsp;por&nbsp;que&nbsp;nada&nbsp;disso&nbsp;é&nbsp;culpa&nbsp;sua,&nbsp;e&nbsp;o&nbsp;que&nbsp;finalmente&nbsp;vai&nbsp;mudar&nbsp;essa&nbsp;história.</span></p>",
+      "name": "KdnfD8"
+     },
+     "data-type": "text",
+     "step": "fVt9Gv"
+    },
+    {
+     "id": "OYREa7",
+     "title": "Vídeo",
+     "icon": "film",
+     "type": "video",
+     "design": {
+      "basis": 100,
+      "ratio": "mobile",
+      "horizontalAlign": "mx-auto",
+      "verticalAlign": "self-start"
+     },
+     "content": {
+      "id": "ecpJ3G",
+      "title": null,
+      "description": null,
+      "name": "Qt0ztv",
+      "video": "<vturb-smartplayer id=\"vid-69efcafea98a3dcb8d2a7ab4\" style=\"display: block; margin: 0 auto; width: 100%; max-width: 400px;\"></vturb-smartplayer> <script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/00d6163e-e250-4c92-8e51-37b324f30ce8/players/69efcafea98a3dcb8d2a7ab4/v4/player.js\", s.async=!0,document.head.appendChild(s); </script>"
+     },
+     "data-type": "video",
+     "step": "fVt9Gv"
+    }
+   ],
+   "chosen": false,
+   "selected": false,
+   "position": {
+    "x": 2396.090685190392,
+    "y": 431.33637971709896
+   }
+  }
+ ],
+ "design": {
+  "logo": {
+   "type": "image",
+   "src": "/assets/BxzT1-comunidade-recortada-v2.png",
+   "width": 1658,
+   "height": 434
+  },
+  "themeColor": "#db2777",
+  "contentColor": "#ffffff",
+  "titleColor": "#ffffff",
+  "backgroundColor": "#020617",
+  "featuredFont": "inter",
+  "contentFont": "inter",
+  "titleSize": 0.5,
+  "contentSize": 16,
+  "rounded": "rounded-2xl",
+  "elementSize": "56px",
+  "logoSize": "default",
+  "header": {
+   "progress": "fixedTop"
+  }
+ },
+ "navigation": {
+  "4mNnKZ": "PXPkHY",
+  "qOLnIB": "SQao4h",
+  "LnGwvH": "PmN6Cy",
+  "VqgZVQ": "nr408P",
+  "qtuc1Y": "6penCf",
+  "syRz15": "PmN6Cy",
+  "xCERQ3": "AlXDC6",
+  "mSNKxB": "PmN6Cy",
+  "4eFZhp": "nr408P",
+  "s9AnDx": "nr408P",
+  "JVOeXO": "nr408P",
+  "jng2I3": "nr408P",
+  "QyDzhR": "6penCf",
+  "qZRpP1": "6penCf",
+  "sEB09q": "6penCf",
+  "1yPTE5": "6penCf",
+  "kFieuE": "AlXDC6",
+  "NR0piG": "AlXDC6",
+  "Rb3MH3": "AlXDC6",
+  "WdkypS": "AlXDC6",
+  "M0CVKv": "A9Pl85",
+  "fhw8Sa": "A9Pl85",
+  "WjAeMY": "A9Pl85",
+  "TVa83I": "A9Pl85",
+  "1E7E6g": "PWA97Z",
+  "L8kdOO": "PWA97Z",
+  "OD8LCF": "PWA97Z",
+  "xMFIe6": "PWA97Z",
+  "yGi4As": "od75Qs",
+  "N13xYl": "7UzqBL",
+  "udO8dE": "7UzqBL",
+  "XfYoHO": "7UzqBL",
+  "xZIXOu": "08kcd3",
+  "AS7L5J": "08kcd3",
+  "91Jnnt": "08kcd3",
+  "ENGQGk": "08kcd3",
+  "mKUoGB": "rCCdib",
+  "p9nrHo": "rCCdib",
+  "gIStik": "rCCdib",
+  "2Xa7Tc": "rCCdib",
+  "nd5A9K": "qjSbjU",
+  "j7BHE7": "fVt9Gv",
+  "wqctFn": "fVt9Gv",
+  "MkKpxA": "fVt9Gv",
+  "tCABS9": "fVt9Gv",
+  "NxKQP9": "SQao4h",
+  "wjMj1s": "SQao4h",
+  "YSwcN9": "SQao4h",
+  "EArjdf": "SQao4h",
+  "iut0Gx": "AlXDC6",
+  "HHJO0v": "AlXDC6",
+  "QaNCie": "AlXDC6",
+  "kMMni0": "rCCdib",
+  "eBoVFA": "rCCdib",
+  "gxh9Z7": "rCCdib",
+  "Wnfj0R": "g35mIO",
+  "A7Kq03": "g35mIO",
+  "3llXqa": "g35mIO",
+  "QjbWTW": "g35mIO",
+  "x2YTin": "next",
+  "2T3Sb4": "next",
+  "lZimld": "next"
+ },
+ "scripts": {
+  "header": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '962858769592570');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=962858769592570&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
+  "facebook": "962858769592570",
+  "footer": null
+ },
+ "webhook": [],
+ "seo": [],
+ "version": "v1"
+}
